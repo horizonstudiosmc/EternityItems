@@ -1,0 +1,8 @@
+name: EternityItems
+version: '${project.version}'
+main: org.horizon.plugins.eternityitems.EternityItems
+api-version: 1.19
+prefix: EI
+authors: [ horizon ]
+description:
+  Custom items (:
